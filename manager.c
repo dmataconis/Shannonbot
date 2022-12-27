@@ -65,6 +65,6 @@ int main(int argc, char **argv){
  //compute average
  double average = sum / robots;
  printf("Simulation Complete.\nSTAD: %lf cm\n", average);
- }
+}
 
       
