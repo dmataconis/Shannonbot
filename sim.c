@@ -67,4 +67,4 @@ int main(int argc, char **argv) {
    fprintf(fd, "%f\n",sum);
    fclose(fd);
 
-}
+}}
